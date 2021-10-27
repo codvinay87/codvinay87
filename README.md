@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinaycod
--👀 I’m interested in .
+- 👀 I’m interested in .
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at e21cseu0742@bennett.edu.in
