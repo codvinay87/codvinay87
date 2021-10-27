@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @codvinay87
+- 👋 Hi, I’m @vinaycod
+-
 - 👀 I’m interested in .
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
